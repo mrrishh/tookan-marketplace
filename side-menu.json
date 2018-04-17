@@ -34,7 +34,7 @@
     "icon" : "./agent.png",
     "functionalize" : {
         "internal_functionality": false,
-        "url" : "http://csnba.000webhostapp.com/",
+        "url" : "www.google.com",
         "target" : "_blank"
     }
  },
