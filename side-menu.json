@@ -35,7 +35,7 @@
     "functionalize" : {
         "internal_functionality": false,
         "url" : "http://csnba.000webhostapp.com/",
-        "target" : "_self"
+        "target" : "_blank"
     }
  },
     {
