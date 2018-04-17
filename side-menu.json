@@ -33,9 +33,8 @@
     "name" : "AgentDemo",
     "icon" : "./agent.png",
     "functionalize" : {
-        "internal_functionality": false,
         "url" : "csnba.000webhostapp.com",
-        "target" : "_blank"
+        "target" : "_self"
     }
  },
     {
